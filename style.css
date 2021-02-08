@@ -2,9 +2,9 @@
   background-color: LightSeaGreen;
   border-radius: 35px;
   color: black;
-  padding: 20px;
+  padding: 15px;
   font-size: 16px;
-  border: none;
+  border: solid black;
   margin: 30px;
   font-family: American Typewriter, serif;
 
@@ -82,14 +82,11 @@ iframe{
 
 .ppl-block{
 
-  width: 33%;
-  border: 1px solid black;
+  width: 33.33%;
   float: left;
   font-family: American Typewriter, serif;
   text-align: center;
   background-color: LightCyan;
-  float: left;
-
 
 }
 
@@ -102,7 +99,44 @@ iframe{
     border: 2px solid black;
     border-collapse: collapse;
     color: HotPink;
+}
 
+hr{
+
+  border: solid black;
+  height: 1px;
+
+}
+
+.userdata-input{
+
+  text-align: center;
+  font-family: American Typewriter, serif;
+  padding: 10px 20px;
+  box-sizing: border-box;
+
+}
+
+header{
+
+  background-color: Mistyrose;
+
+}
+
+main{
+
+  background-color: Powderblue;
+}
+
+.contactus-block{
+
+  width: 25%; 
+  float: left;
+  font-family: American Typewriter, serif;
+  
+}
+
+footer{
 
 
 }
